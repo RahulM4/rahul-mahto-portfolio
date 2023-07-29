@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "rahul-mahto-portfolio",
-  "homepage": "https://rahulm4.github.io",
+  "homepage": "https://rahulm4.github.io/rahul-mahto-portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
