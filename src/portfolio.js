@@ -546,7 +546,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.rahulmahto.com/",
+    link: "https://iamrahulmahto.wordpress.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
